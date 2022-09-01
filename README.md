@@ -1,5 +1,7 @@
 # AV-comfort-assessment-tool-
 
+# Those scripts were developed as a part of the comfort assessment project.
+
 AV_assessTool.py- assess the comfort. Program uses the AV datasets from the NuScenes.
 
 Plotting scripts:
